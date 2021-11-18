@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jmasked
+- 👀 I’m interested in cloud infrastructure, puzzles, escape rooms, ethical hacking, my homelab, fitness, creative projects, video games, board games, magic, and adventuring!
+- 🌱 I’m currently learning GCP, Cyber Security, and infrastructure automation.
